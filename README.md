@@ -1,4 +1,4 @@
-# Udacity- creating_customer_segments
+# Creating Customer Segments
 
 # Project Overview
 
