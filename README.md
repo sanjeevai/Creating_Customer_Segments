@@ -14,7 +14,7 @@ information could assist the wholesale distributor with future service changes.
 
 This project is designed to give a hands-on experience with unsupervised learning and work towards developing conclusions for a potential client on a real-world dataset. Many companies today collect vast amounts of data on customers and clientele, and have a strong desire to understand the meaningful relationships hidden in their customer base. Being equipped with this information can assist a company engineer future products and services that best satisfy the demands or needs of their customers.
 
-Things you will learn by completing this project:
+Things I have learned by completing this project:
 
 How to apply preprocessing techniques such as feature scaling and outlier detection.
 
@@ -39,4 +39,4 @@ This project contains three files:
 
 * customer_segments.ipynb: This is the main file where I performed my work on the project.
 * customers.csv: The project dataset.
-* visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
+* visuals.py: This Python script provides supplementary visualizations for the project. **Do not modify**.
